@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import code.Human;
 
-class TestHuman {
+class HumanTest {
 
 	@Test
 	void test_increaseWorkYear_with2Year_expectWorkYearAdded2() {
